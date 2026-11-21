@@ -111,6 +111,10 @@ logger:
 
 ## Credits
 
+The icon is original artwork made for this project. Roku is a trademark of Roku, Inc.; this
+project is not affiliated with or endorsed by Roku.
+
+
 Built on the [emulated_roku](https://github.com/mindigmarton/emulated_roku) library by
 @mindigmarton, which the core integration also uses.
 
