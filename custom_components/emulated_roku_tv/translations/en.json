@@ -1,0 +1,17 @@
+{
+  "config": {
+    "abort": {
+      "already_configured": "An emulated Roku TV with this name or port already exists"
+    },
+    "step": {
+      "user": {
+        "title": "Add an emulated Roku TV",
+        "description": "Harmony and other remotes find it on the network as a TCL Roku TV. Its commands arrive as roku_command events with source_name set to this name.",
+        "data": {
+          "name": "Name (as the remote will see it)",
+          "listen_port": "Listen port"
+        }
+      }
+    }
+  }
+}
